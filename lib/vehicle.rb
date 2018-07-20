@@ -5,4 +5,11 @@ class Vehicle
     @wheel_number = number
   end
   
+  def go
+    'VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!'
+  end
+  
+  def fill_up_tank
+    'filling up!' 
+  end
 end
